@@ -1,0 +1,17 @@
+#app {
+  width: 550px;
+  height: 228px;
+  font-size: 60px;
+  text-align: center;
+  line-height: 78px;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+}
+
+mark {
+  display: inline-block;
+  background-color: rgb(61, 228, 219);
+  line-height: 0em;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+}
