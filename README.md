@@ -7,7 +7,7 @@
     <br />
     👨‍💻 All of my projects are available at https://alveloper.oopy.io/portfolio
     <br />
-    📫 How to reach me <b>alveloper@gamil.com</b>
+    📫 How to reach me <b>alveloper@gmail.com</b>
     <br />
     ⚡ Fun fact <b>Literally I don't move when I'm working.</b>
   </div>
