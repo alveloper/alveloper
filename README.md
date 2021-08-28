@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Suyeon. 👋 </h1>
+  <h2>Hello, I'm Suyeon. 👋 </h2>
   <div align="left">
     🔭 I’m currently working on <b>a toy project that makes people limit their caffeine.</b>
     <br />
